@@ -6,6 +6,8 @@
 // @version		1.0.0
 // @copyright	2015+, holzmaster
 // @description	Wir haben eigentlich keine.
+// @downloadURL		https://raw.githubusercontent.com/pr0nopoly/friendlist/master/friendlist.user.js
+// @updateURL		https://raw.githubusercontent.com/pr0nopoly/friendlist/master/friendlist.user.js
 // @icon		http://pr0gramm.com/media/pr0gramm-favicon.png
 // @grant		none
 // ==/UserScript==
