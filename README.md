@@ -4,6 +4,12 @@ Hebt Freunde(?) oder beliebige andere Schwuchteln in den Kommentaren oder Profil
 
 ### Eigentlich noch nicht fertig.
 
+![Kommentar](https://i.imgur.com/4vOqdnv.png)
+
+![Bild](https://i.imgur.com/CBE47jJ.png)
+
+![Profil](https://i.imgur.com/koJgRdK.png)
+
 ## Installation
 1. Browser einrichten
   - Firefox benötigt [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/).
