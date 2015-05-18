@@ -3,7 +3,8 @@
 // @author		holzmaster
 // @namespace	holzmaster
 // @include		http://pr0gramm.com*
-// @version		1.0.0
+// @include		https://pr0gramm.com*
+// @version		1.0.1
 // @copyright	2015+, holzmaster
 // @description	Wir haben eigentlich keine.
 // @downloadURL		https://raw.githubusercontent.com/pr0nopoly/friendlist/master/friendlist.user.js
