@@ -4,7 +4,7 @@
 // @namespace	holzmaster
 // @include		http://pr0gramm.com*
 // @include		https://pr0gramm.com*
-// @version		1.0.2
+// @version		1.0.3
 // @copyright	2015+, holzmaster
 // @description	Wir haben eigentlich keine.
 // @downloadURL		https://holzmaster.github.io/friendlist/friendlist.user.js
