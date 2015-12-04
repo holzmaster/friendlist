@@ -17,7 +17,7 @@ Hebt Freunde(?) oder beliebige andere Schwuchteln in den Kommentaren oder Profil
   - IE benötigt einen kompetenten Benutzer (nicht nachinstallierbar).
 2. Skript hierüber installieren (klick oder kopieren und in Adressleiste einfügen oder so):
 
-  [`https://raw.githubusercontent.com/pr0nopoly/friendlist/master/friendlist.user.js`](https://raw.githubusercontent.com/pr0nopoly/friendlist/master/friendlist.user.js)
+  [`https://holzmaster.github.io/friendlist/friendlist.user.js`](https://holzmaster.github.io/friendlist/friendlist.user.js)
 3. Beim pr0gramm F5 drücken.
 4. Auf die Seite [`http://pr0gramm.com/fags`](http://pr0gramm.com/fags) gehen.
 
